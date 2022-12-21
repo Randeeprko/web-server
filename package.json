@@ -1,0 +1,19 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Simple Web server ",
+  "main": "Explore.js",
+  "scripts": {
+    "test": "node Explore.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randeeprko/web-server.git"
+  },
+  "author": "Randeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randeeprko/web-server/issues"
+  },
+  "homepage": "https://github.com/Randeeprko/web-server#readme"
+}
